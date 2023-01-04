@@ -2,8 +2,9 @@
 Classification on MNIST dataset consisting of 28x28 greyscale images of handwritten digits. The dataset is split into a training
 set of 60 000, and a validation set of 10 000 labeled instances.
 
-# What I learned:
-- <b>Use and Apllication of the following Python libraries/packages:
+<h2>What I learned:</h2>
+
+- <b>Application of the following Python libraries/packages:
   1. Numpy
   2. Matplotlib
   3. Pytorch
