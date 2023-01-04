@@ -12,3 +12,4 @@ set of 60 000, and a validation set of 10 000 labeled instances.
 - <b>Implementation of a simple neural network from scratch in Python, including weight updates via backpropagation.
 - <b>Principle and working of Autoencoders.
 - <b>Plotting Loss vs epoch for illustrating the comparision between Training Error vs Validation Error.
+- <b>Initialization of the weights plays a critical role in the learning process. Hence proper initialization (here He-initialization) is taken into consideration.
